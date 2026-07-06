@@ -42,7 +42,7 @@
 <h3>🔥 My Coding Streak</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harrish243&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffrey-theog06&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
