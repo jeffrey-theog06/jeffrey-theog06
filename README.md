@@ -14,7 +14,7 @@
 
 ## 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,lua,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,lua," />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 ## 🧪 Other Skills
 - Prompt Enginnering In AI  
 - VAPT(Vulnerability Assesment and Pentration Testing)
-- Builsing own Firewall using VMs(Virtual Machine) and targeting safe OS inside VM only  
+- Building own Firewall using VMs(Virtual Machine) and targeting safe OS inside VM only  
 - Aware about common cyber attacks and learning in progress how to defend   
 
 <p align="center">
@@ -67,10 +67,10 @@
 ## 🌟 Featured Project
 
 
-### 🩺 **SafeMode - Ransomware Detection and Prevention**
+###  **SafeMode - Ransomware Detection and Prevention**
 A multimodel based Web used to sever computers as endpoints to monitor files and directories, placing honeypot files to trigger when attackers try to attack in. (For more info check My github repo)**.
 
-### 🧠 **Data analysis using Python with MySQLDB**
+###  **Data analysis using Python with MySQLDB**
 A data analysing GUI where data's entered can be expressed in the form of different type of Chats and Business prediction models using menu based program.
 
 <p align="center">
