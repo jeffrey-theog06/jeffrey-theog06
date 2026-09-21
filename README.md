@@ -70,7 +70,7 @@
 ###  **SafeMode - Ransomware Detection and Prevention**
 A multimodel based Web used to sever computers as endpoints to monitor files and directories, placing honeypot files to trigger when attackers try to attack in. (For more info check My github repo)**.
 
-###  **Data analysis using Python with MySQLDB**
+###  **Data analysis using Python with MySQL DataBase**
 A data analysing GUI where data's entered can be expressed in the form of different type of Chats and Business prediction models using menu based program.
 
 <p align="center">
